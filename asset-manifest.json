@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/productdetail/static/css/main.e6213a40.chunk.css",
+    "main.js": "/productdetail/static/js/main.a1b030ee.chunk.js",
+    "main.js.map": "/productdetail/static/js/main.a1b030ee.chunk.js.map",
+    "runtime~main.js": "/productdetail/static/js/runtime~main.e37d1e49.js",
+    "runtime~main.js.map": "/productdetail/static/js/runtime~main.e37d1e49.js.map",
+    "static/css/2.90045b7a.chunk.css": "/productdetail/static/css/2.90045b7a.chunk.css",
+    "static/js/2.12db5bc1.chunk.js": "/productdetail/static/js/2.12db5bc1.chunk.js",
+    "static/js/2.12db5bc1.chunk.js.map": "/productdetail/static/js/2.12db5bc1.chunk.js.map",
+    "index.html": "/productdetail/index.html",
+    "precache-manifest.e15e3da9a0615cda2686166351566458.js": "/productdetail/precache-manifest.e15e3da9a0615cda2686166351566458.js",
+    "service-worker.js": "/productdetail/service-worker.js",
+    "static/css/2.90045b7a.chunk.css.map": "/productdetail/static/css/2.90045b7a.chunk.css.map",
+    "static/css/main.e6213a40.chunk.css.map": "/productdetail/static/css/main.e6213a40.chunk.css.map",
+    "static/media/logo.png": "/productdetail/static/media/logo.d98df3fd.png",
+    "static/media/slick-theme.css": "/productdetail/static/media/slick.f97e3bbf.svg"
+  }
+}
